@@ -53,8 +53,8 @@ The first line of every HTML file should declare the document type (DOCTYPE) to 
         <h1>hello world</h1>
     </body>
 ```
-- the complete boiler plate code:  ![alt text](image.png)
-- the website live: ![alt text](image-1.png)
+- the complete boiler plate code:  ![alt text](readme_images/image.png)
+- the website live: ![alt text](readme_images/image-1.png)
 
 ## working with text
 - HTML compresses whitespace, so it appears as one long line. To create paragraphs, wrap the text in `<p> `tags
@@ -67,7 +67,7 @@ The first line of every HTML file should declare the document type (DOCTYPE) to 
 <!-- This is a comment -->
 ```
 - [working with text assignment](working_with_text.html)
-- the website live: ![alt text](image-2.png)
+- the website live: ![alt text](readme_images/image-2.png)
 
 ## lists
 - Ordered Lists
@@ -95,7 +95,7 @@ The first line of every HTML file should declare the document type (DOCTYPE) to 
 
 - [the project](odin-links-and-images)
 - the live website: 
-![alt text](image-3.png)
+![alt text](readme_images/image-3.png)
 
 ## commit messages
 - how to write good commit messages
