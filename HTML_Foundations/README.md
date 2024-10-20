@@ -79,7 +79,32 @@ The first line of every HTML file should declare the document type (DOCTYPE) to 
 - [lists assignment](list.html)
 
 ## links and images
-- 
+
+- Create a new directory named odin-links-and-images.
+- Inside this directory, create an index.html file.
+- Fill in the HTML boilerplate and add the following `<h1>Homepage</h1>`
+- To create a link, use the `<a> ` element` <a>About The Odin Project</a>`
+- To make it functional, add `href ` attribute   
+`<a href="https://www.theodinproject.com/about">About The Odin Project</a>`
+
+- To open links in a new tab, use the `target="_blank"` and pair it with `rel="noopener noreferrer"` for security reasons
+
+- Absolute Links: Links that contain the full URL and Relative Links: Links to other pages within the same website without using the full URL.
+- To display an image, use the `<img>` element. Create an images/ directory and add a file called dog.jpg. Add the image to index.html
+- Always include the alt attribute for accessibility and width and height attributes to define the size
+
+- [the project](odin-links-and-images)
+- the live website: 
+![alt text](image-3.png)
+
+## commit messages
+- how to write good commit messages
+    1. It Should Be Brief but Descriptive
+    2. Limit the subject line to 50 characters
+    3. Capitalize the subject line
+    4. explain why and what
+
+
 
 
 
