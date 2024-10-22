@@ -66,7 +66,7 @@ The first line of every HTML file should declare the document type (DOCTYPE) to 
 ```
 <!-- This is a comment -->
 ```
-- [working with text assignment](working_with_text.html)
+- [working with text assignment](working_with_texts/working_with_text.html)
 - the website live: ![alt text](readme_images/image-2.png)
 
 ## lists
@@ -76,7 +76,7 @@ The first line of every HTML file should declare the document type (DOCTYPE) to 
 - Unordered Lists
     1.  Use `<ul>` to create a list where the order of items doesn't matter, like a shopping list.
     2.  Each item in the list is wrapped in the `<li>` element, and displayed with bullet points.
-- [lists assignment](list.html)
+- [lists assignment](lists/list.html)
 
 ## links and images
 
@@ -104,7 +104,10 @@ The first line of every HTML file should declare the document type (DOCTYPE) to 
     3. Capitalize the subject line
     4. explain why and what
 
-
+## Project Recipes
+- I have created a website that has an index page with links to 2 pages and each page contains the recipe for a dish
+- [Odin Recipes](https://goutham100.github.io/The-Odin-Project/HTML_Foundations/odin-recipes/index.html)
+- [code](odin-recipes)
 
 
 
