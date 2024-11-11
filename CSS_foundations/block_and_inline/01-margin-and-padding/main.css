@@ -1,0 +1,21 @@
+#one
+{
+    padding: 32px;
+    margin: 12px;
+    border: 3px solid;
+    background-color: pink;
+}
+#two
+{
+    background-color: lightgreen;
+    margin-bottom: 48px;
+    border: 3px solid purple;
+}
+#three
+{
+    border: 3px purple solid;
+    background-color: antiquewhite;
+    padding: 30px;
+    width: 200px;
+    margin-left: auto;
+}
