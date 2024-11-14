@@ -7,4 +7,4 @@ this repository contains what I learned in The Odin Project
 Module Projects: 
 
 1. [Odin Recipes](https://goutham100.github.io/The-Odin-Project/HTML_Foundations/odin-recipes/index.html)
-2. [Landing Page](https://goutham100.github.io/The-Odin-Project/blob/main/FlexBox/Landing%20Page/main.html)
+2. [Landing Page](https://goutham100.github.io/The-Odin-Project/FlexBox/Landing%20Page/main.html)
