@@ -1,0 +1,157 @@
+body
+{
+    margin: 0;
+}
+.block-1
+{
+    background:#1f2937 ;
+}
+.top-line
+{
+    display: flex;
+    justify-content: space-between;
+}
+.links
+{
+    display: flex ;
+    align-items: center;
+}
+.header-logo
+{
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: bold;
+    color: #f9faf8;
+}
+ul
+{
+    list-style-type: none;
+}
+li
+{
+    font-size: 18px;
+    color: #e5e7eb;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.txt_and_img
+{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+#heading
+{
+    padding-top: 30px;
+    font-family: Roboto;
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
+#content
+{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+#button-1
+{
+    margin-top: 10px;
+    padding: 10px 20px;
+    color: #f9faf8;
+    background-color: #3882f6;
+}
+.block-2
+{
+
+    background: white;
+    display: flex;
+}
+
+.title2
+{
+    font-family: Roboto;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.container
+{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+.container1
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.img2
+{
+    border: #3882f6 solid 5px;
+    width: 200px;
+    height: 200px;
+}
+.block-3
+{
+    background: #e5e7eb;
+    display: flex;
+    justify-content: space-around;
+    font-size: 26px;
+}
+.quote
+{
+    padding: 40px;
+}
+.block-4
+{
+    margin: 20px;
+    background: white;
+}
+.txt_and_buttons
+{
+    padding: 50px;
+    background: #3882f6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.blue-block
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.title
+{
+    font-family: Roboto;
+    font-size: 20px;
+    color: #3c3838;
+}
+.txt-3
+{
+    color: #f9faf8;
+    font-size: 18px;
+    font-weight: 100;
+
+}
+.button
+{
+    font-size: 20px;
+    padding: 10px 30px;
+    border: #f9faf8 solid;
+    border-radius: 15%;
+    background-color: #3882f6;
+    color: #f9faf8;
+}
